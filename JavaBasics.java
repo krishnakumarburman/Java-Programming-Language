@@ -1,6 +1,9 @@
+import java.util.*;
 public class JavaBasics {
     public static void main(String arg[]){
-        System.out.println("Hello World!");
+        Scanner sc = new Scanner(System.in);
+        String input = sc.next();
+        System.out.println(input);
     }
 }
 
