@@ -14,5 +14,6 @@ public class imp_reverse_number {
             System.out.print(last_digit);
             number = number/10;
         }
+         sc.close();
     }
 }
