@@ -6,7 +6,7 @@ public class for_loop1 {
         // for(initilisation ; condition ; updation){ }
 
         Scanner sc = new Scanner(System.in);
-        for(int i = 1 ; i <= 10 ; i++){
+        for(int i = 1 ; i <= 9999999 ; i++){
             System.out.print(i + " ");
         }
         sc.close();
