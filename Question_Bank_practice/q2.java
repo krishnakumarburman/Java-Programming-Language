@@ -1,4 +1,4 @@
-package Pratice_Question;
+package Question_Bank_practice;
 import java.util.*;
 
 public class q2 {
