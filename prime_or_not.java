@@ -29,5 +29,7 @@ public class prime_or_not {
                 System.out.println("It's a Composite Number");
             }
         }
+
+        sc.close();
     }
 }
